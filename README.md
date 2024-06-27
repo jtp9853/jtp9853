@@ -37,8 +37,6 @@
 
 ## Part-time Work Experience
 
-## Part-time Work Experience
-
 - **December 2017 - February 2018**
   - Part-time at a Tteokbokki restaurant
 
