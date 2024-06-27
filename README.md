@@ -4,7 +4,7 @@
 - Bachelor of Economics and Computer Science (Double Major), Kangwon National University (Class of 2020)
   
 ## Military Service
-- Sergeant, Baekdusan Unit, 21st Division, Republic of Korea Army (Driver)
+- Sergeant, Baekdusan Unit, 21st Division, Republic of Korea Army (Driver) (2020.12 ~ 2022.06)
   
 ## GPA
 - 4.1
