@@ -1,5 +1,23 @@
 # About Me
+**![header](https://capsule-render.vercel.app/api?type=soft&color=212121&height=50&text=Hi%20there%20👋&fontColor=FAFAFA&fontSize=30&fontAlignY=60&descAlign=50&animation=fadeIn)
 
+<br><br><br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=70&pause=1000&color=000000&center=true&vCenter=true&width=900&height=80&lines=Hello+World!)](https://git.io/typing-svg)
+
+<br><br><br><br><br>
+
+## Study 🎓
+
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br><br>
+**
 ## Education
 - Bachelor of Economics and Computer Science (Double Major), Kangwon National University (Class of 2020)
   
