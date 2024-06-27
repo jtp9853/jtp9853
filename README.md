@@ -1,5 +1,6 @@
 # About Me
-**![header](https://capsule-render.vercel.app/api?type=soft&color=212121&height=50&text=Hi%20there%20👋&fontColor=FAFAFA&fontSize=30&fontAlignY=60&descAlign=50&animation=fadeIn)
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=212121&height=50&text=Hi%20there%20👋&fontColor=FAFAFA&fontSize=30&fontAlignY=60&descAlign=50&animation=fadeIn)
 
 <br><br><br>
 
@@ -7,14 +8,14 @@
 
 <br><br><br><br><br>
 
+---
 
-<hr>
 ## Education
 - Bachelor of Economics and Computer Science (Double Major), Kangwon National University (Class of 2020)
-  
+
 ## Military Service
 - Sergeant, Baekdusan Unit, 21st Division, Republic of Korea Army (Driver) (2020.12 ~ 2022.06)
-  
+
 ## GPA
 - 4.1
 
@@ -30,13 +31,13 @@
 - Planning Director, Economics Student Council, Kangwon National University (2023/03 ~ 2023/12)
 - Mentor Leader, Major Runner New Student Mentorship Program, Kangwon National University (2023/09 ~ 2023/12)
 - Partner, TechPartners (2024/04 ~ 2024/06/27)
-- Member, like Lion (2024/04 ~ Present)
+- Member, Like Lion (2024/04 ~ Present)
 - Remote Intern, Remote Internship Program (2024/05 ~ Present)
 - Member, Economics Soccer Club, Kangwon National University (2024/03 ~ Present)
+
 ---
 
 ## Early Athletics and Club Experience
-
 - Participated in high jump and 400m relay running for the track and field team at Kyungdong Elementary School (2006 - 2012).
 - Member of the soccer club at Seongsoo Middle School (2012 - 2015).
 - Member of the basketball club at Seongsoo High School (2015 - 2018).
