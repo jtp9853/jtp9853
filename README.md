@@ -1,4 +1,3 @@
-## Hi there 👋
 # About Me
 
 ## Education
@@ -25,3 +24,27 @@
 - Partner, TechPartners (2024/04 ~ 2024/06/27)
 - Remote Intern, Remote Internship Program (2024/05 ~ Present)
 - Member, Economics Soccer Club, Kangwon National University (2024/03 ~ Present)
+
+---
+
+## Early Athletics and Club Experience
+
+- Participated in high jump and 400m relay running for the track and field team at Kyungdong Elementary School (2006 - 2012).
+- Member of the soccer club at Seongsoo Middle School (2012 - 2015).
+- Member of the basketball club at Seongsoo High School (2015 - 2018).
+
+---
+
+## Part-time Work Experience
+
+- **December 2017 - February 2018**
+  - Part-time at a Tteokbokki restaurant
+
+- **February 2018 - May 2018**
+  - Part-time at a restaurant
+
+- **March 2019 - June 2019**
+  - Part-time at a dining restaurant
+
+- **June 2019 - October 2019**
+  - Part-time at a Korean barbecue restaurant
