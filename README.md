@@ -7,27 +7,6 @@
 
 <br><br><br><br><br>
 
-## Study 🎓
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-**
-
-<H3>🛠️ Tools</H3>
-
-  <img src="https://img.shields.io/badge/VS Code-ffffff?style=flat&logo=Visual Studio Code&logoColor=007ACC"/></a>
-  <img src="https://img.shields.io/badge/intelliJ IDEA-ffffff?style=flat&logo=intellijidea&logoColor=000000"/></a>
-  <img src="https://img.shields.io/badge/Git-ffffff?style=flat&logo=Git&logoColor=F05032"/></a>
-  <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat&logo=GitHub&logoColor=181717"/></a>
-  
-   <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=000000"/></a>
-  <img src="https://img.shields.io/badge/GitBook-ffffff?style=flat&logo=GitBook&logoColor=3884FF"/></a>
 
 <hr>
 ## Education
