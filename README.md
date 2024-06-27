@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**jtp9853/jtp9853** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+Education:
 
-Here are some ideas to get you started:
+Bachelor of Economics and Computer Science (Double Major), Kangwon National University (Class of 20XX)
+Military Service:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sergeant, Baekdusan Unit, 21st Division, Republic of Korea Army (Driver)
+GPA: 4.1
+
+TOEIC: 785
+
+Experience
+Current Activities:
+Member, Leaders of Tomorrow Club (YLC) Nationwide Economic Union (2023/03 ~ 2023/12)
+Planning Director, Economics Student Council, Kangwon National University (2023/03 ~ 2023/12)
+Mentor Leader, Major Runner New Student Mentorship Program, Kangwon National University (2023/09 ~ 2023/12)
+Member, Leopold Lion (2024/04 ~ Present)
+Partner, TechPartners (2024/04 ~ Present)
+Remote Intern, Remote Internship Program (2024/05 ~ Present)
+Member, Economics Soccer Club, Kangwon National University (2024/03 ~ Present)
