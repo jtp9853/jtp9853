@@ -1,48 +1,7 @@
 ## Hi there 👋
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Me</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
 
-        .container {
-            max-width: 800px;
-            margin: auto;
-            padding: 20px;
-        }
-
-        h2 {
-            border-bottom: 1px solid #ccc;
-            padding-bottom: 5px;
-        }
-
-        h3 {
-            margin-top: 20px;
-        }
-
-        #education, #military, #gpa, #toeic {
-            margin-bottom: 20px;
-        }
-
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-
-        ul li {
-            margin-bottom: 10px;
-        }
-    </style>
-</head>
 <body>
     <div class="container">
         <section id="about">
