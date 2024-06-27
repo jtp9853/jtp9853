@@ -27,7 +27,7 @@
 # Experience
 
 ## Current Activities
-- Member, Leaders of Tomorrow Club (YLC) Nationwide Economic Club (2023/03 ~ 2023/12)
+- Member, young leaders club (YLC) Nationwide Economic Club (2023/03 ~ 2023/12)
 - Planning Director, Economics Student Council, Kangwon National University (2023/03 ~ 2023/12)
 - Mentor Leader, Major Runner New Student Mentorship Program, Kangwon National University (2023/09 ~ 2023/12)
 - Partner, TechPartners (2024/04 ~ 2024/06/27)
