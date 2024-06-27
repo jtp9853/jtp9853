@@ -20,8 +20,8 @@
 - Member, Leaders of Tomorrow Club (YLC) Nationwide Economic Union (2023/03 ~ 2023/12)
 - Planning Director, Economics Student Council, Kangwon National University (2023/03 ~ 2023/12)
 - Mentor Leader, Major Runner New Student Mentorship Program, Kangwon National University (2023/09 ~ 2023/12)
+- - Partner, TechPartners (2024/04 ~ 2024/06/27)
 - Member, like Lion (2024/04 ~ Present)
-- Partner, TechPartners (2024/04 ~ 2024/06/27)
 - Remote Intern, Remote Internship Program (2024/05 ~ Present)
 - Member, Economics Soccer Club, Kangwon National University (2024/03 ~ Present)
 
