@@ -18,6 +18,26 @@
 
 <br><br>
 **
+
+<H3>🛠️ Tools</H3>
+
+  <img src="https://img.shields.io/badge/Xcode-ffffff?style=flat&logo=Xcode&logoColor=147EFB"/></a>
+  <img src="https://img.shields.io/badge/Xcode Cloud-ffffff?style=flat&logo=Xcode&logoColor=147EFB"/></a>
+  <img src="https://img.shields.io/badge/VS Code-ffffff?style=flat&logo=Visual Studio Code&logoColor=007ACC"/></a>
+  <img src="https://img.shields.io/badge/intelliJ IDEA-ffffff?style=flat&logo=intellijidea&logoColor=000000"/></a>
+  <img src="https://img.shields.io/badge/Git-ffffff?style=flat&logo=Git&logoColor=F05032"/></a>
+  <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat&logo=GitHub&logoColor=181717"/></a>
+  
+   <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=000000"/></a>
+  <img src="https://img.shields.io/badge/GitBook-ffffff?style=flat&logo=GitBook&logoColor=3884FF"/></a>
+
+  <img src="https://img.shields.io/badge/Figma-ffffff?style=flat&logo=Figma&logoColor=F24E1E"/></a>
+  <img src="https://img.shields.io/badge/Sketch-ffffff?style=flat&logo=Sketch&logoColor=F7B500"/></a>
+  <img src="https://img.shields.io/badge/blender-ffffff?style=flat&logo=Blender&logoColor=F5792A"/></a>
+  <img src="https://img.shields.io/badge/Premiere Pro-ffffff?style=flat&logo=Adobe Premiere Pro&logoColor=9999FF"/></a>
+  <img src="https://img.shields.io/badge/After Effects-ffffff?style=flat&logo=Adobe After Effects&logoColor=9999FF"/></a>
+
+<hr>
 ## Education
 - Bachelor of Economics and Computer Science (Double Major), Kangwon National University (Class of 2020)
   
