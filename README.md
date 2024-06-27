@@ -21,8 +21,6 @@
 
 <H3>🛠️ Tools</H3>
 
-  <img src="https://img.shields.io/badge/Xcode-ffffff?style=flat&logo=Xcode&logoColor=147EFB"/></a>
-  <img src="https://img.shields.io/badge/Xcode Cloud-ffffff?style=flat&logo=Xcode&logoColor=147EFB"/></a>
   <img src="https://img.shields.io/badge/VS Code-ffffff?style=flat&logo=Visual Studio Code&logoColor=007ACC"/></a>
   <img src="https://img.shields.io/badge/intelliJ IDEA-ffffff?style=flat&logo=intellijidea&logoColor=000000"/></a>
   <img src="https://img.shields.io/badge/Git-ffffff?style=flat&logo=Git&logoColor=F05032"/></a>
