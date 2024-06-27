@@ -37,6 +37,8 @@
 
 ## Part-time Work Experience
 
+## Part-time Work Experience
+
 - **December 2017 - February 2018**
   - Part-time at a Tteokbokki restaurant
 
@@ -48,3 +50,6 @@
 
 - **June 2019 - October 2019**
   - Part-time at a Korean barbecue restaurant
+
+- **June 2019 - October 2019**
+  - Part-time at a convenience store
