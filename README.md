@@ -98,3 +98,13 @@
 
 - **June 2019 - October 2019**
   - Part-time at a convenience store
+
+
+## An unusual history of being an athlete(I was a track and field athlete in elementary school, so I have physical strength and perseverance.)
+
+- 2010 Kyobo Life Insurance Computer National Elementary School Provincial Athletics Competition 3rd Place
+
+- 2nd place in the 22nd Seoul (elementary and middle school) school education competition
+
+- 1st place in the 27th Seoul Metropolitan Office of Education Elementary and Middle School Track and Field Competition
+
