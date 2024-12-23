@@ -7,6 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=70&pause=1000&color=000000&center=true&vCenter=true&width=900&height=80&lines=Hello+World!)](https://git.io/typing-svg)
 
 <br><br><br><br><br>
+
+<div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -48,7 +50,7 @@
 
 ---
 
-<div align=center><h1>📚 STACKS</h1></div>
+
 
 
 ## Education
