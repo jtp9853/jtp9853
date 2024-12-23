@@ -41,6 +41,9 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
   <h1>Coding makes my heart race. I like coding because the moment I code, I feel like I'm being sucked into the computer. I don't code professionally, but I code as a hobby.</h1>
+
+  <h2>My goal in life is to be happy and get along well with people.
+  </h2>
 </div>
 
 ---
