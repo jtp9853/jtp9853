@@ -74,9 +74,11 @@
 - Planning Director, Economics Student Council, Kangwon National University (2023/03 ~ 2023/12)
 - Mentor Leader, Major Runner New Student Mentorship Program, Kangwon National University (2023/09 ~ 2023/12)
 - Partner, TechPartners (2024/04 ~ 2024/06/27)
-- Member, Like Lion (2024/04 ~ Present)
-- Remote Intern, Remote Internship Program (2024/05 ~ Present)
-- Member, Economics Soccer Club, Kangwon National University (2024/03 ~ Present)
+- Member, Like Lion (2024/04 ~ 2024/12)
+- Remote Intern, Remote Internship Program (2024/05 ~ 2024/8)
+- Member, Economics Soccer Club, Kangwon National University (2024/03 ~ 2024/12)
+- Administrative Experience Program, Seongdong District Office (2025/1 ~ 2025/2)
+- Intern (Work-Experience Program), Korea Inclusive Finance Agency (KIFA) (2025/5~2025/8)
 
 ---
 
@@ -112,7 +114,7 @@
 
 ## An unusual history of being an athlete(I was a track and field athlete in elementary school, so I have physical strength and perseverance.)
 
-- 2010 Kyobo Life Insurance Computer National Elementary School Provincial Athletics Competition 3rd Place
+- 2010 Kyobo Life Insurance National Elementary School Provincial Athletics Competition 3rd Place
 
 - 2nd place in the 22nd Seoul (elementary and middle school) school education competition
 
