@@ -59,12 +59,6 @@
 ## Military Service
 - Sergeant, Baekdusan Unit, 21st Division, Republic of Korea Army (Driver) (2020.12 ~ 2022.06)
 
-## GPA
-- 4.1
-
-## TOEIC
-- 925
-
 ---
 
 # Experience
