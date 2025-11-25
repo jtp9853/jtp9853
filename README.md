@@ -54,7 +54,7 @@
 
 
 ## Education
-- Bachelor of Economics and Computer Science (Double Major), Kangwon National University (Class of 2020)
+- Bachelor of Economics, Kangwon National University (Class of 2020), Minor in Computer Science
 
 ## Military Service
 - Sergeant, Baekdusan Unit, 21st Division, Republic of Korea Army (Driver) (2020.12 ~ 2022.06)
