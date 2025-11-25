@@ -73,6 +73,7 @@
 - Member, Economics Soccer Club, Kangwon National University (2024/03 ~ 2024/12)
 - Administrative Experience Program, Seongdong District Office (2025/1 ~ 2025/2)
 - Intern (Work-Experience Program), Korea Inclusive Finance Agency (KIFA) (2025/5~2025/8)
+- Exchange Mathematics Program at Seoul National University (2025/9 ~~~~)
 
 ---
 
